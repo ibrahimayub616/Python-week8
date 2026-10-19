@@ -1,0 +1,28 @@
+
+PERSONAL MINI-TOOLKIT PLAN
+
+1. TOOL: Simple Calculator
+The calculator adds, subtracts, multiplies, and divides two numbers.
+Concepts: input, variables, conditionals, arithmetic, and f-strings.
+
+2. TOOL: To-Do List
+The to-do list allows users to add, view, and remove tasks while the program runs.
+Concepts: lists, loops, conditionals, input, and f-strings.
+
+3. TOOL: Even or Odd Checker
+The checker tells the user whether a number is even or odd.
+Concepts: input, variables, conditionals, the modulo operator, and f-strings.
+
+EXACT MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+1. Simple Calculator
+2. To-Do List
+3. Even or Odd Checker
+4. Quit
+
+Choose an option (1-4):
+
+The menu repeats until the user chooses option 4.
+Invalid choices display a polite error message.
